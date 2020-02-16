@@ -9,14 +9,14 @@ and keywords, and won't necessarily work if you type them in blindly
 Other Note: to get help on a particular git command, use `git <command> --help`
 
 ## Setup
-1. Install and setup git on your computer (remember to set your name/email)
+1. Create an account (or login) to GitHub at <https://github.com> 
+
+2. Install and setup git on your computer (remember to set your name/email)
 
     ~~~bash
     $ git config --global user.name "Firstname Lastname"
     $ git config --global user.email "example@gmail.com"
     ~~~
-
-2. Create an account (or login) to GitHub at <https://github.com> 
 3. (optional) Generate a ssh-key and add it to your GitHub account (for more 
    information see 
    <https://help.github.com/articles/connecting-to-github-with-ssh/>)
